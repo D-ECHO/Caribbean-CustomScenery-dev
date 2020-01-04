@@ -1,0 +1,6 @@
+work/
+data/SRTM-1/download
+data/shapefiles/caribbean*
+groundnet/aptdat2sqlite.py
+groundnet/sqlite2xml.py
+output/
