@@ -28,6 +28,7 @@ then
 	do 
 		build_airport `echo $i| cut -c 15-18`;
 	done
+	build_airport XTF0002;
 else
 	build_airport $1;
 fi

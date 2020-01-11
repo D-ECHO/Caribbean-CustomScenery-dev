@@ -28,6 +28,8 @@ case $1 in
 	14) geo='--min-lon=-59.7 --max-lon=-59.4 --min-lat=13.0 --max-lat=13.4';; #Barbados
 	
 	15) geo='--min-lon=-65.1 --max-lon=-64.1 --min-lat=17.6 --max-lat=18.8';; #Virgin Islands
+	
+	16) geo='--min-lon=-61.7 --max-lon=-61.5 --min-lat=15.8 --max-lat=15.9';; #Guadeloupe: southern islands
 esac
 echo $1
 echo $geo
